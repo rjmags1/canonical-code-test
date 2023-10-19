@@ -1,5 +1,7 @@
+import { Card } from '@canonical/react-components'
+
 function App() {
-    return <div className="App">Hello world</div>;
+    return <Card className="">test card</Card>
 }
 
-export default App;
+export default App
